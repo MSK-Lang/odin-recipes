@@ -1,0 +1,45 @@
+body{
+    background-color: burlywood;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#main-title{
+  color: whitesmoke;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+}
+.title{
+color: whitesmoke;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: black;
+padding: 2%;
+padding-right: 2px;
+
+}
+#desc {
+    background-color: beige;
+    word-spacing: 4px;
+    font-size: 18px;
+    padding: 3%;
+    color: darkslategrey;
+}
+
+img{
+    width: 600px;
+    height: auto;
+    padding: 2%;
+ margin: 4px;
+    
+}
+.ing{
+    background-color: beige;
+    color: darkslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 4%;
+}
+.steps{
+  word-spacing: 8px;
+}
